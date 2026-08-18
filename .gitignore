@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vscode/
+.agents/
+specs/
+package.json
+package-lock.json
+public/13151652_3840_2160_30fps.mp4
+public/consultoria-ia.png
+public/logo-lma.svg
+public/sprites_game_LM/
